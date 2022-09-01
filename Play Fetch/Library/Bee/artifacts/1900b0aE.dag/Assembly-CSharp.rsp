@@ -357,6 +357,7 @@
 "Assets/Challenge 2/Scripts/MoveForwardX.cs"
 "Assets/Challenge 2/Scripts/PlayerControllerX.cs"
 "Assets/Challenge 2/Scripts/SpawnManagerX.cs"
+"Assets/New Folder/NewBehaviourScript.cs"
 -langversion:9.0
 
 /deterministic
